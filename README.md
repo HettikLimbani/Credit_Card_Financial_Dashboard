@@ -1,3 +1,4 @@
+
 ## 📊 Credit Card Financial Weekly Dashboard  
 
 ### 📌 Project Overview  
@@ -87,9 +88,14 @@ The dataset can be accessed via:
 2. **Import dataset into SQL database**  
    - Run SQL queries to create tables.  
    - Import CSV data into SQL.  
-3. **Open Power BI** and load the processed dataset.  
-
+3. **Open Power BI** and load the processed dataset.
+ 
 ---
 
+### 📜 License  
+This project is open-source and available under the MIT License.
+
+---
+  
 ### 🤝 Contributing  
 Contributions are welcome! Feel free to submit issues or pull requests.  
