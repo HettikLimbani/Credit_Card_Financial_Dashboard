@@ -1,7 +1,3 @@
-Here’s a detailed **README** file for your GitHub repository:  
-
----
-
 ## 📊 Credit Card Financial Weekly Dashboard  
 
 ### 📌 Project Overview  
