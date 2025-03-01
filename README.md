@@ -8,7 +8,7 @@ This project involves developing a **Power BI dashboard** for analyzing **credit
 
 ### 📁 Data Source  
 The dataset can be accessed via:  
-📌 **Datasets Folder**: [Credit Card Financial Dashboard](https://github.com/rishabhnmishra/Credit_Card_Financial_Dashboard)  
+📌 **Datasets Folder**: [[Credit Card Financial Dashboard](https://github.com/rishabhnmishra/Credit_Card_Financial_Dashboard)  ](https://github.com/HettikLimbani/Credit_Card_Financial_Dashboard/tree/main/Datasets)
 
 
 ---
